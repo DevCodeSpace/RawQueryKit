@@ -1,0 +1,10 @@
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\bin\Release\netstandard2.0\RawQueryKit.deps.json
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\bin\Release\netstandard2.0\RawQueryKit.dll
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\bin\Release\netstandard2.0\RawQueryKit.pdb
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\obj\Release\netstandard2.0\RawQueryKit.csproj.AssemblyReference.cache
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\obj\Release\netstandard2.0\RawQueryKit.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\obj\Release\netstandard2.0\RawQueryKit.AssemblyInfoInputs.cache
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\obj\Release\netstandard2.0\RawQueryKit.AssemblyInfo.cs
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\obj\Release\netstandard2.0\RawQueryKit.csproj.CoreCompileInputs.cache
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\obj\Release\netstandard2.0\RawQueryKit.dll
+D:\Other Stuff\RawQueryKit\src\RawQueryKit\obj\Release\netstandard2.0\RawQueryKit.pdb
