@@ -1,0 +1,13 @@
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\bin\Release\netstandard2.0\RawQueryKit.Dapper.deps.json
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\bin\Release\netstandard2.0\RawQueryKit.Dapper.dll
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\bin\Release\netstandard2.0\RawQueryKit.Dapper.pdb
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\bin\Release\netstandard2.0\RawQueryKit.dll
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\bin\Release\netstandard2.0\RawQueryKit.pdb
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQueryKit.Dapper.csproj.AssemblyReference.cache
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQueryKit.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQueryKit.Dapper.AssemblyInfoInputs.cache
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQueryKit.Dapper.AssemblyInfo.cs
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQueryKit.Dapper.csproj.CoreCompileInputs.cache
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQuery.FBE744A7.Up2Date
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQueryKit.Dapper.dll
+D:\Other Stuff\RawQueryKit\src\RawQueryKit.Dapper\obj\Release\netstandard2.0\RawQueryKit.Dapper.pdb
